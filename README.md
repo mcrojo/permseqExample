@@ -1,0 +1,1 @@
+Due to the size of the demo datasets, the package is currently available at http://pages.stat.wisc.edu/~yezheng/permseqExample_1.1.tar.gz. Download it by "wget http://pages.stat.wisc.edu/~yezheng/permseqExample_1.1.tar.gz". Thanks for using Permseq! Have fun.
